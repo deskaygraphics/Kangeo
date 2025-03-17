@@ -1,0 +1,3 @@
+# common module
+
+::: kangeo.common
