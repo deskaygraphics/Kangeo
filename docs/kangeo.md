@@ -1,4 +1,0 @@
- 
-# kangeo module
-
-::: kangeo.kangeo
