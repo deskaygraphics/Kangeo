@@ -10,7 +10,7 @@
 
 -   Free software: MIT License
 -   Documentation: https://deskaygraphics.github.io/Kangeo
-    
+
 
 ## Features
 

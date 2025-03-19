@@ -9,7 +9,7 @@
 
 -   Free software: MIT License
 -   Documentation: <https://deskaygraphics.github.io/kangeo>
-    
+
 
 ## Features
 
