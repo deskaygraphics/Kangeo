@@ -8,9 +8,17 @@
 
 
 -   Free software: MIT License
--   Documentation: <https://deskaygraphics.github.io/kangeo>
+-   Documentation: <https://geo.kangeo.org>
 
 
 ## Features
 
--   TODO
+-   Creating Geospatial Packages
+-   Creating Interactive Maps
+-
+
+## Usage
+```Python
+import kangeo
+import os
+```
