@@ -81,6 +81,7 @@ nav:
     - Report Issues: https://github.com/deskaygraphics/Kangeo/issues
     - Examples:
         - examples/intro.ipynb
+        - examples/map.ipynb
     - API Reference:
           - kangeo module: kangeo.md
           - common module: common.md
