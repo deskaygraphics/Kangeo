@@ -2,3 +2,4 @@ folium
 geopandas
 ipyleaflet
 numpy
+GDAL==3.10.3 --find-links=https://girder.github.io/large_image_wheels
