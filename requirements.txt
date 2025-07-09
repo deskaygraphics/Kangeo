@@ -1,5 +1,5 @@
 folium
-GDAL==3.10.3 
+GDAL==3.10.3
 geopandas
 ipyleaflet
 numpy
