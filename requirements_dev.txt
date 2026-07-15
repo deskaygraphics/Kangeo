@@ -1,11 +1,9 @@
 black
 black[jupyter]
-build
 bump-my-version
-click
 codespell
-flake8
-
+coverage
+deadlink
 ipykernel
 livereload
 mkdocs
@@ -14,16 +12,18 @@ mkdocs-git-revision-date-plugin
 mkdocs-jupyter>=0.24.0
 mkdocs-material>=9.1.3
 mkdocs-pdf-export-plugin
-mkdocstrings == 0.28.2 #updated
+mkdocstrings
 mkdocstrings-crystal
-mkdocstrings-python-legacy
+mkdocstrings-python
 nbconvert
 nbformat
+pip
+pre-commit
 pygments
 pymdown-extensions
-pytest
-pytest-runner
+pyproject-flake8
 sphinx
+tox
 twine
 watchdog
 wheel
