@@ -2,7 +2,6 @@
 
 """Tests for `kangeo` package."""
 
-
 import unittest
 
 from kangeo import kangeo
